@@ -5,7 +5,7 @@
 npm login
 #npm account:
 #username: dangjia
-#email: develop@in-ideal.com
+#email: service@in-ideal.com
 #password: 87621701
 #修改package.json version
 npm publish
