@@ -4,8 +4,8 @@
 #进入/新建一个文件夹
 npm login
 #npm account:
-#username: wokeline
-#email: wokeline@163.com
-#password: dj1122
+#username: dangjia
+#email: develop@in-ideal.com
+#password: 87621701
 #修改package.json version
 npm publish
