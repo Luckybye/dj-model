@@ -105,7 +105,7 @@ var constantSetting = {
     }, {tag: 'U.S.Dollar', cn: '美元', en: 'USD'}];
   },
   tradeTerm: function tradeTerm() {
-    return [{en: 'FOB', type: '1'}, {en: 'CIF', type: '2'}, {en: 'FCA', type: '1'}, {en: 'CFR', type: '2'}, {en: 'CPT', type: '2'}, {en: 'CIP', type: '2'}, {en: 'DDP', type: '2'}, {en: 'DDU', type: '2'}, {en: 'EXW', type: '2'}];
+    return [{en: 'FOB', type: '1'}, {en: 'CIF', type: '2'}, {en: 'FCA', type: '1'}, {en: 'CFR', type: '2'}, {en: 'CPT', type: '2'}, {en: 'CIP', type: '2'}, {en: 'DDP', type: '2'}, {en: 'DDU', type: '2'}, {en: 'EXW', type: '2'}, {en: 'DAP', type: '2'}];
   },
   packTerm: function packTerm() {
     return [{en: 'carton', cn: '纸箱'}, {en: 'bulk', cn: '散装'}];
