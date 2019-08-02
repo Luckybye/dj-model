@@ -1,6 +1,6 @@
 {
   "name": "dj-model",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "dj-model desc",
   "main": "src/index.js",
   "scripts": {
